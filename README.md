@@ -1,7 +1,6 @@
-Creating a `README.md` file in point form can help potential users and contributors quickly understand your project. Here's an example `README.md` for a Django REST Framework (DRF) API project:
 
 ```markdown
-# DRF Task Manager
+# DRF Todo app
 
 ## Project Overview
 - A simple task management API built with Django REST Framework.
@@ -109,19 +108,5 @@ Creating a `README.md` file in point form can help potential users and contribut
 - This project is licensed under the MIT License.
 
 ## Contact
-- For any questions or suggestions, please open an issue or contact `your.email@example.com`.
+- For any questions or suggestions, please open an issue or contact `kenethoriga@live.com`.
 ```
-
-### Explanation of Sections
-
-1. **Project Overview**: A brief introduction to the project.
-2. **Features**: Key features of the API.
-3. **Installation**: Step-by-step instructions to set up the project locally.
-4. **API Endpoints**: List of available endpoints with brief descriptions.
-5. **Usage**: Examples of how to interact with the API.
-6. **Project Structure**: Overview of the project's directory structure.
-7. **Contributing**: Instructions for contributing to the project.
-8. **License**: License information.
-9. **Contact**: How to get in touch for questions or suggestions.
-
-This `README.md` template provides a clear and concise guide for users and contributors, making it easier to understand and work with your project.
